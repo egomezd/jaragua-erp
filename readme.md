@@ -1,3 +1,2 @@
+gabiel denominado como mc tambien XD
 
-segunda linea de texto
-debe salir en blanco
