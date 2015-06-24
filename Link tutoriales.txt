@@ -1,5 +1,6 @@
-http://git-scm.com/docs/git-merge
+Links para tutoriales de GitHub
 
+http://git-scm.com/docs/git-merge
 https://styde.net/aprende-git/
 http://blog.santiagobasulto.com.ar/programacion/2011/11/27/tutorial-de-git-en-espanol.html
 http://www.franmoreno.com/manuales/primeros-pasos-con-git-y-github/
