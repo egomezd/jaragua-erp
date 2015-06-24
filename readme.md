@@ -1,5 +1,6 @@
 Este el archivo de descripcion del proyecto. 
-Jaragua ERP
+Jaragua ERP ®
+
 aqui esta mi cambio(Alberto)
 =======
 
