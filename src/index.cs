@@ -1,5 +1,5 @@
 //
-// Este es el archivo principal
+// ..: Este es el archivo principal :..
 //
 using System.Drawing;
 public static main()
